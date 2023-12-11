@@ -1,0 +1,34 @@
+
+{
+  "logoText": "Tro",
+  "logoSubtext": "Weld",
+  "links": [
+    { "text": "Home", "to": "/" },
+    { "text": "About", "to": "/about" },
+    { "text": "Services", "to": "/service" },
+    { "text": "Portfolio", "to": "/portfolio" },
+    { "text": "Contact", "to": "/contact" },
+
+    { "text_meta": "4"},
+    { "text_meta": "5" },
+    { "text_meta": "8"},
+    { "text_meta": "9"},
+    { "text_meta": "7"}
+  ],
+  "weldingText": "Lorem ipsum dolor sit amet, consectetur adipiscinaliquaLoreadipiscing",
+  "socialMedia": [
+    { "icon": "fa-facebook", "url": "#" },
+    { "icon": "fa-twitter", "url": "#" },
+    { "icon": "fa-linkedin", "url": "#" },
+    { "icon": "fa-youtube-play", "url": "#" }
+  ],
+  "weldingCenterText": "Lorem ipsum dolor sit amet, consectetur adipiscinaliquaLoreadipiscing",
+  "contactLinks": [
+    { "icon": "fa-map-marker", "text": "Location", "to": "/" },
+    { "icon": "fa-phone", "text": "Call +01 1234567890", "to": "/" },
+    { "icon": "fa-envelope", "text": "demo@gmail.com", "to": "/" },
+
+    { "text": "8"},
+    { "text": "19"}
+  ]
+}

@@ -1,0 +1,19 @@
+
+{
+  "portfolio": {
+    "heading": "Our Work Portfolio",
+    "categories": [
+      { "id": "all", "name": "All" },
+      { "id": "decorative", "name": "Decorative" },
+      { "id": "facade", "name": "Facades" },
+      { "id": "perforated", "name": "Perforated" },
+      { "id": "railing", "name": "Railings" }
+    ]
+  },
+  "items": [
+    { "category": "decorative", "image": "images/p1.jpg" },
+    { "category": "facade", "image": "images/p2.jpg" },
+    { "category": "perforated decorative", "image": "images/p3.jpg" },
+    { "category": "railing", "image": "images/p1.jpg" }
+  ]
+}

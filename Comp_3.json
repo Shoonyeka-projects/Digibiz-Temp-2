@@ -1,0 +1,53 @@
+
+{
+  "services": [
+    {
+      "image": "images/s3.png",
+      "title": "Window Welding",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+
+      "title_meta": "14",
+      "description_meta": "95"
+    },
+    {
+      "image": "images/s4.png",
+      "title": "Machine Welding",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+
+      "title_meta": "15",
+      "description_meta": "95"
+    },
+    {
+      "image": "images/s2.png",
+      "title": "Gate Welding",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+
+      "title_meta": "12",
+      "description_meta": "95"
+    },
+    {
+      "image": "images/s5.png",
+      "title": "Bike Welding",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+
+      "title_meta": "12",
+      "description_meta": "95"
+    },
+    {
+      "image": "images/s6.png",
+      "title": "Car Welding",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+
+      "title_meta": "11",
+      "description_meta": "95" 
+    },
+    {
+      "image": "images/s1.png",
+      "title": "Home Welding",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+
+      "title_meta": "12",
+      "description_meta": "95" 
+    }
+  ]
+}

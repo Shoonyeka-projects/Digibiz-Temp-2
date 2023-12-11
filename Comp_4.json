@@ -1,0 +1,22 @@
+
+{
+  "labels": {
+    "heading": "Get In Touch",
+    "namePlaceholder": "Your Name",
+    "phonePlaceholder": "Phone Number",
+    "servicePlaceholder": "Select Service",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Message",
+    "buttonText": "SEND",
+
+    "heading_meta": "12",
+    "namePlaceholder_meta": "9",
+    "phonePlaceholder_meta": "12",
+    "servicePlaceholder_meta": "14",
+    "emailPlaceholder_meta": "5",
+    "messagePlaceholder_meta": "7",
+    "buttonText_meta": "4"
+  },
+  "services": ["Select Service", "Service 1", "Service 2", "Service 3"],
+  "services_meta": ["14", "9", "9", "9"]
+}
